@@ -1,5 +1,4 @@
 def square_array(array)
-  def square_array(numbers)
   
     squared_numbers = []
 	  numbers.each do |num|
@@ -7,5 +6,4 @@ def square_array(array)
   end
   return squared_numbers
   
-end
 end
